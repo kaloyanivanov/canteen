@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1651917842 source:d:\canteen\main.cpp
+	<iostream>
+	"common.h"
+	"OrderManager.h"
+
+1651915712 source:d:\canteen\src\order.cpp
+	"Order.h"
+
+1651868412 d:\canteen\include\order.h
+	<vector>
+	<string>
+	"OrderElement.h"
+	"Customer.h"
+
+1651833243 source:d:\canteen\src\customer.cpp
+	"Customer.h"
+
+1651658507 d:\canteen\include\customer.h
+	<iostream>
+
+1651833258 source:d:\canteen\src\product.cpp
+	"Product.h"
+
+1651749452 d:\canteen\include\product.h
+	<string>
+	<iostream>
+
+1651832092 source:d:\canteen\src\orderelement.cpp
+	"OrderElement.h"
+
+1651661627 d:\canteen\include\orderelement.h
+	"Product.h"
+
+1651917930 source:d:\canteen\src\ordermanager.cpp
+	"common.h"
+	"OrderManager.h"
+	<iostream>
+
+1651836679 d:\canteen\include\ordermanager.h
+	<fstream>
+	<vector>
+	"Manager.h"
+	"Order.h"
+
+1651917505 source:d:\canteen\src\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1651916718 d:\canteen\include\menu.h
+	<fstream>
+	<vector>
+	<string>
+	"Manager.h"
+	"Product.h"
+
+1651682712 source:d:\canteen\src\manager.cpp
+	"Manager.h"
+
+1651683362 d:\canteen\include\manager.h
+	<iostream>
+
+1651748682 d:\canteen\include\common.h
+	"Menu.h"
+
